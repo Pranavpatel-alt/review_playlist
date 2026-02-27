@@ -1,0 +1,171 @@
+#EXTM3U
+
+##############################################
+## SPORTS
+##############################################
+
+#EXTINF:-1 tvg-id="sports-1" tvg-name="Sports Channel 1" tvg-logo="" group-title="Sports",Sports Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="sports-2" tvg-name="Sports Channel 2" tvg-logo="" group-title="Sports",Sports Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="sports-3" tvg-name="Sports Channel 3" tvg-logo="" group-title="Sports",Sports Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="sports-4" tvg-name="Sports Channel 4" tvg-logo="" group-title="Sports",Sports Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="sports-5" tvg-name="Sports Channel 5" tvg-logo="" group-title="Sports",Sports Channel 5
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## NEWS
+##############################################
+
+#EXTINF:-1 tvg-id="news-1" tvg-name="News Channel 1" tvg-logo="" group-title="News",News Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="news-2" tvg-name="News Channel 2" tvg-logo="" group-title="News",News Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="news-3" tvg-name="News Channel 3" tvg-logo="" group-title="News",News Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="news-4" tvg-name="News Channel 4" tvg-logo="" group-title="News",News Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## ENTERTAINMENT
+##############################################
+
+#EXTINF:-1 tvg-id="entertainment-1" tvg-name="Entertainment Channel 1" tvg-logo="" group-title="Entertainment",Entertainment Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-2" tvg-name="Entertainment Channel 2" tvg-logo="" group-title="Entertainment",Entertainment Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-3" tvg-name="Entertainment Channel 3" tvg-logo="" group-title="Entertainment",Entertainment Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-4" tvg-name="Entertainment Channel 4" tvg-logo="" group-title="Entertainment",Entertainment Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-5" tvg-name="Entertainment Channel 5" tvg-logo="" group-title="Entertainment",Entertainment Channel 5
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## KIDS
+##############################################
+
+#EXTINF:-1 tvg-id="kids-1" tvg-name="Kids Channel 1" tvg-logo="" group-title="Kids",Kids Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="kids-2" tvg-name="Kids Channel 2" tvg-logo="" group-title="Kids",Kids Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="kids-3" tvg-name="Kids Channel 3" tvg-logo="" group-title="Kids",Kids Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="kids-4" tvg-name="Kids Channel 4" tvg-logo="" group-title="Kids",Kids Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## DOCUMENTARY
+##############################################
+
+#EXTINF:-1 tvg-id="documentary-1" tvg-name="Documentary Channel 1" tvg-logo="" group-title="Documentary",Documentary Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="documentary-2" tvg-name="Documentary Channel 2" tvg-logo="" group-title="Documentary",Documentary Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="documentary-3" tvg-name="Documentary Channel 3" tvg-logo="" group-title="Documentary",Documentary Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="documentary-4" tvg-name="Documentary Channel 4" tvg-logo="" group-title="Documentary",Documentary Channel 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## SCIENCE & TECH
+##############################################
+
+#EXTINF:-1 tvg-id="science-1" tvg-name="Science Channel 1" tvg-logo="" group-title="Science & Tech",Science Channel 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="science-2" tvg-name="Science Channel 2" tvg-logo="" group-title="Science & Tech",Science Channel 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="science-3" tvg-name="Science Channel 3" tvg-logo="" group-title="Science & Tech",Science Channel 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## MOVIES (VOD)
+## All streams: Big Buck Bunny (open source, Blender Foundation)
+## TMDB IDs are real so the app fetches proper artwork & metadata
+##############################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 1" tvg-logo="" group-title="Movies" tmdb_id="157336",Movie 1
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 2" tvg-logo="" group-title="Movies" tmdb_id="155",Movie 2
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 3" tvg-logo="" group-title="Movies" tmdb_id="27205",Movie 3
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 4" tvg-logo="" group-title="Movies" tmdb_id="299534",Movie 4
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 5" tvg-logo="" group-title="Movies" tmdb_id="8587",Movie 5
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 6" tvg-logo="" group-title="Movies" tmdb_id="109445",Movie 6
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 7" tvg-logo="" group-title="Movies" tmdb_id="862",Movie 7
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 8" tvg-logo="" group-title="Movies" tmdb_id="10681",Movie 8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 9" tvg-logo="" group-title="Movies" tmdb_id="603",Movie 9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie 10" tvg-logo="" group-title="Movies" tmdb_id="238",Movie 10
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+##############################################
+## TV SHOWS (Series VOD)
+## TMDB IDs are real TV series IDs
+##############################################
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 1 S01E01" tvg-logo="" group-title="TV Shows" tmdb_id="1399" season_number="1" episode_number="1",TV Show 1 S01E01
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 1 S01E02" tvg-logo="" group-title="TV Shows" tmdb_id="1399" season_number="1" episode_number="2",TV Show 1 S01E02
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 1 S01E03" tvg-logo="" group-title="TV Shows" tmdb_id="1399" season_number="1" episode_number="3",TV Show 1 S01E03
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 2 S01E01" tvg-logo="" group-title="TV Shows" tmdb_id="1396" season_number="1" episode_number="1",TV Show 2 S01E01
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 2 S01E02" tvg-logo="" group-title="TV Shows" tmdb_id="1396" season_number="1" episode_number="2",TV Show 2 S01E02
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 2 S01E03" tvg-logo="" group-title="TV Shows" tmdb_id="1396" season_number="1" episode_number="3",TV Show 2 S01E03
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 3 S01E01" tvg-logo="" group-title="TV Shows" tmdb_id="66732" season_number="1" episode_number="1",TV Show 3 S01E01
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 3 S01E02" tvg-logo="" group-title="TV Shows" tmdb_id="66732" season_number="1" episode_number="2",TV Show 3 S01E02
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 4 S01E01" tvg-logo="" group-title="TV Shows" tmdb_id="60735" season_number="1" episode_number="1",TV Show 4 S01E01
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Show 4 S01E02" tvg-logo="" group-title="TV Shows" tmdb_id="60735" season_number="1" episode_number="2",TV Show 4 S01E02
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
